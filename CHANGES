@@ -1,0 +1,20 @@
+Flask-CLI Changelog
+======================
+
+Here you can see the full list of changes between each Flask-CLI release.
+
+Version 0.1.0
+-----------------
+
+Created on May 11, 2016
+
+Coopted the Flask-Script module to create the Flask-CLI module.
+
+Version 0.2.0
+-----------------
+
+Removed references to flask.Flask() apps.
+
+Updated things so they look a little more like Python 3.
+
+
